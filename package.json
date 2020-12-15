@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "debug": "node --expose-gc index.js --debug"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "heapdump": "^0.3.15",
+    "minimist": "^1.2.5"
+  }
+}
