@@ -14,7 +14,7 @@ const replaceThing = function ( ) {
   }
 
   theThing = {
-    longStr: new Array(100000000).join('*'),
+    longStr: new Int8Array(1000 * 1000 * 100),
     someMethod: function () {
       // unused()
       console.log('someMessage')
