@@ -1,8 +1,9 @@
 Node memory leak demo
 
-## start
+## Start
+```yarn``` for installing dependencies packages
 
-```yarn debug```
+```yarn debug``` for running the code
 
 
 ## Dump memory profiles
